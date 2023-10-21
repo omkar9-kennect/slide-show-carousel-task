@@ -17,7 +17,7 @@ export const useslideStore = defineStore("slide", {
               X: "center",
               Y: "center",
               formatting: {
-                Bold:false,
+                bold:false,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"
@@ -29,7 +29,7 @@ export const useslideStore = defineStore("slide", {
               X: "bottom",
               Y: "right",
               formatting: {
-                Bold: false,
+                bold: false,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"normal"
@@ -41,7 +41,7 @@ export const useslideStore = defineStore("slide", {
               X: "bottom",
               Y: "left",
               formatting: {
-                Bold: true,
+                bold: true,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"
@@ -53,7 +53,7 @@ export const useslideStore = defineStore("slide", {
               X: "top",
               Y: "left",
               formatting: {
-                Bold: true,
+                bold: true,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"normal"
@@ -65,7 +65,7 @@ export const useslideStore = defineStore("slide", {
               X: "top",
               Y: "right",
               formatting: {
-                Bold: true,
+                bold: true,
                 textSize: 20,
                 font: "funny",
                 fontItalic: true,
@@ -86,7 +86,7 @@ export const useslideStore = defineStore("slide", {
               X: "center",
               Y: "center",
               formatting: {
-                Bold: false,
+                bold: false,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"normal"
@@ -100,7 +100,7 @@ export const useslideStore = defineStore("slide", {
               X: "bottom",
               Y: "right",
               formatting: {
-                Bold: false,
+                bold: false,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"normal"
@@ -113,7 +113,7 @@ export const useslideStore = defineStore("slide", {
               X: "bottom",
               Y: "left",
               formatting: {
-                Bold: false,
+                bold: false,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"
@@ -126,7 +126,7 @@ export const useslideStore = defineStore("slide", {
               X: "top",
               Y: "left",
               formatting: {
-                Bold: true,
+                bold: true,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"
@@ -138,7 +138,7 @@ export const useslideStore = defineStore("slide", {
               X: "top",
               Y: "right",
               formatting: {
-                Bold: true,
+                bold: true,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"
@@ -159,7 +159,7 @@ export const useslideStore = defineStore("slide", {
               X: "center",
               Y: "center",
               formatting: {
-                Bold: false,
+                bold: false,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"
@@ -173,7 +173,7 @@ export const useslideStore = defineStore("slide", {
               X: "bottom",
               Y: "right",
               formatting: {
-                Bold: false,
+                bold: false,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"
@@ -186,7 +186,7 @@ export const useslideStore = defineStore("slide", {
               X: "bottom",
               Y: "left",
               formatting: {
-                Bold: false,
+                bold: false,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"normal"
@@ -199,7 +199,7 @@ export const useslideStore = defineStore("slide", {
               X: "top",
               Y: "left",
               formatting: {
-                Bold: true,
+                bold: true,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"
@@ -211,7 +211,7 @@ export const useslideStore = defineStore("slide", {
               X: "top",
               Y: "right",
               formatting: {
-                Bold: true,
+                bold: true,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"
@@ -232,7 +232,7 @@ export const useslideStore = defineStore("slide", {
               X: "center",
               Y: "center",
               formatting: {
-                Bold: true,
+                bold: true,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"
@@ -246,7 +246,7 @@ export const useslideStore = defineStore("slide", {
               X: "bottom",
               Y: "right",
               formatting: {
-                Bold: true,
+                bold: true,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"
@@ -259,7 +259,7 @@ export const useslideStore = defineStore("slide", {
               X: "bottom",
               Y: "left",
               formatting: {
-                Bold: false,
+                bold: false,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"normal"
@@ -272,7 +272,7 @@ export const useslideStore = defineStore("slide", {
               X: "top",
               Y: "left",
               formatting: {
-                Bold: true,
+                bold: true,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"
@@ -284,7 +284,7 @@ export const useslideStore = defineStore("slide", {
               X: "top",
               Y: "right",
               formatting: {
-                Bold: true,
+                bold: true,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"
@@ -305,7 +305,7 @@ export const useslideStore = defineStore("slide", {
               X: "center",
               Y: "center",
               formatting: {
-                Bold: true,
+                bold: true,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"
@@ -319,7 +319,7 @@ export const useslideStore = defineStore("slide", {
               X: "bottom",
               Y: "right",
               formatting: {
-                Bold: true,
+                bold: true,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"
@@ -332,7 +332,7 @@ export const useslideStore = defineStore("slide", {
               X: "bottom",
               Y: "left",
               formatting: {
-                Bold: true,
+                bold: true,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"
@@ -345,7 +345,7 @@ export const useslideStore = defineStore("slide", {
               X: "top",
               Y: "left",
               formatting: {
-                Bold: true,
+                bold: true,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"
@@ -357,7 +357,7 @@ export const useslideStore = defineStore("slide", {
               X: "top",
               Y: "right",
               formatting: {
-                Bold: true,
+                bold: true,
                 textSize: "20",
                 font: "funny",
                 fontStyle:"italic"

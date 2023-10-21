@@ -17,7 +17,7 @@
           :style="{
             
             backgroundColor: box.backgroundColor,
-            fontWeight: box.formatting.Bold ? 'bold' : 'normal',
+            fontWeight: box.formatting.bold ? 'bold' : 'normal',
             fontStyle: box.formatting.fontStyle,
             fontSize: box.formatting.textSize + 'px',
             fontFamily: box.formatting.font,
