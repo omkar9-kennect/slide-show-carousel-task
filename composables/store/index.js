@@ -382,10 +382,6 @@ export const useslideStore = defineStore("slide", {
     }
   },
    
-    slideStyle() {
-      return {
-        transform: `translateX(-${this.currentIndex * 100}%)`,
-      };
-    },
+    
   },
 });
