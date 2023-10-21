@@ -1,6 +1,6 @@
 <template>
   <KCarsouel>
-    <template v-slot:slidebox>
+    <template v-slot:slideBox>
       <div
         v-for="(slide,slideIndex) in slides"
         :key="slide.seq"

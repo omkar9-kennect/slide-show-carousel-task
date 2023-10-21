@@ -1,6 +1,6 @@
 import { defineStore } from "pinia";
 export const useslideStore = defineStore("slide", {
-  id: "slidesdata",
+  id: "slidesData",
   state: () => {
     return {
       currentIndex: 0,

@@ -11,7 +11,7 @@
           alt="slideshow image"
           @click="redirectFromSlide(image.onClick)"
         />
-        <slot name="slidebox"></slot>     
+        <slot name="slideBox"></slot>     
       </div>
      
     </div>
